@@ -1,0 +1,6 @@
+{ 
+"folder_id": "yc config list",
+"source_image_family": "ubuntu-1604-lts",
+"service_account_key_file": "/home/chdn/keyp/key.json",
+"ssh_username": "ubuntu"
+}
