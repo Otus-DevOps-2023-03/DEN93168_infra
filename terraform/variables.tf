@@ -22,5 +22,7 @@ variable subnet_id{
 variable service_account_key_file{
   description = "key.json"
 }
-variable private_key{
-  description = "~/.ssh/id_rsa"
+variable private_key_path {
+  # Описание переменной
+  description = "Path to the public key used for ssh access"
+  }
