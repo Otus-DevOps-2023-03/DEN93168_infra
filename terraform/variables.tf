@@ -22,3 +22,5 @@ variable subnet_id{
 variable service_account_key_file{
   description = "key.json"
 }
+variable private_key{
+  description = "~/.ssh/id_rsa"
