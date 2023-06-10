@@ -1,0 +1,8 @@
+cloud_id = "l1q"
+folder_id = "q9f"
+zone = "ru-central1-a"
+image_id = "a6o"
+public_key_path = "~/.ssh/ubuntu.pub"
+subnet_id = "4g6"
+service_account_key_file = "key.json"
+private_key_path = "~/.ssh/ubuntu"
